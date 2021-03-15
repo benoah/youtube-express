@@ -1,0 +1,24 @@
+{
+  "name": "youtube-express",
+  "version": "1.0.0",
+  "description": "just trying out express for first time",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoah/youtube-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benoah/youtube-express/issues"
+  },
+  "homepage": "https://github.com/benoah/youtube-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
